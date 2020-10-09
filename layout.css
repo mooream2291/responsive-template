@@ -1,0 +1,141 @@
+/* sizing/dimensions */
+/*specific dimenions for all the ids and classes*/
+
+/*mobile*/
+@media only screen and (max-width: 767px){
+
+    header {
+        height: 75px;
+        width: 480px;
+        padding: 25px;
+    }
+    
+    footer {
+        clear: both;
+        height: 80px;
+        width: 480px;
+        padding: 25px;
+        border-top: none;
+    }
+    
+    #bcd {
+        border: none;
+    }
+    .b {
+        height: 150px;
+        width: 480px;
+        padding: 60px;
+        border-bottom: none;
+        border-top: none;
+    }
+    
+    .c {
+        height: 125px;
+        width: 480px;
+        padding: 50px;
+        border-bottom: none;
+    }
+    
+    .d {
+        height: 125px;
+        width: 480px;
+        padding: 50px;
+        border-bottom: none;
+    }
+    #efgh {
+        height: 500px;
+        width: 480px;
+        border: none;
+    }
+    .left {
+        float: left;
+        height: 250px;
+        width: 240px;
+        padding: 105px;
+        border-bottom: none;
+    
+    }
+    .right {
+        float: right;
+        height: 250px;
+        width: 240px;
+        padding: 105px;
+    }
+    #g {
+        border-left: none;
+    }
+    #f {
+        border-left: none;
+    }
+    
+    }
+    
+    @media only screen and (min-width: 960px){
+    
+    /* @media only screen and (max-width: 960px){ */
+    
+        header {
+            height: 100px;
+            width: 960px;
+            padding: 25px;
+        }
+        
+        footer {
+            clear: both;
+            height: 150px;
+            width: 760px;
+            padding: 25px;
+            border-top: none;
+        }
+        
+        #cd {
+            border: none;
+        }
+        .b {
+            height: 600px;
+            width: 200px;
+            padding: 60px;
+            border-bottom: none;
+            border-top: none;
+        }
+        
+        .c {
+            height: 200px;
+            width: 380px;
+            padding: 50px;
+            border-bottom: none;
+        }
+        
+        .d {
+            height: 200px;
+            width: 380px;
+            padding: 50px;
+            border-bottom: none;
+        }
+        #efgh {
+            height: 500px;
+            width: 480px;
+            border: none;
+        }
+        .left {
+            float: left;
+            height: 190px;
+            width: 250px;
+            padding: 105px;
+            border-bottom: none;
+        
+        }
+        .right {
+            float: right;
+            height: 190px;
+            width: 250px;
+            padding: 105px;
+        }
+        #g {
+            border-left: none;
+        }
+        #f {
+            border-left: none;
+        }
+    }
+    }

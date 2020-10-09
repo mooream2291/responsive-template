@@ -1,0 +1,25 @@
+/* for this project-body only styles for anything that is not a class or an id */
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+header {
+    color: black;
+    border: solid 0.5px black;
+}
+footer {
+    color:black;
+    border: solid 0.5px black;
+}
+div {
+    color: black;
+    border: solid 0.5px black;
+
+}
+
+section {
+    color: black;
+    border: solid 0.5px black;
+}
