@@ -1,13 +1,91 @@
 /* classes and ids visual changes */
 /*special changes for exmaple animations*/
 
-header {
-    background-color: rgb(211,211,211);
+@media only screen and (max-width: 767px) {
+    #a {
+        background-color: rgb(250, 128, 114);
+    }
+    #b {
+        background-color: rgb(233, 150, 122);
+    }
+    #c {
+        background-color: rgb(255, 160, 122);
+    }
+    #d {
+        background-color: rgb(205, 92, 92);
+    }
+    #e {
+        background-color: rgb(168, 51, 51);
+    }
+    #f {
+        background-color: rgb(221, 80, 80);
+    }
+    #g {
+        background-color: rgb(180, 118, 118);
+    }
+    #h {
+        background-color: rgb(250, 140, 128);
+    }
+    #i {
+        background-color: rgb(216, 72, 72);
+    }
 }
-footer {
-    background-color: rgb(211,211,211);
+@media only screen and (min-width: 700px) and (max-width: 959px){
+    #a {
+        background-color: rgb(155, 220, 151);
+        }
+    #b {
+        background-color: rgb(118, 167, 116);
+        }
+    #c {
+        background-color: rgb(190, 216, 189);
+        }
+    #d {
+        background-color: rgb(87, 124, 85);
+        }
+    #e {
+        background-color: rgb(58, 92, 57)
+    }
+    #f {
+        background-color: rgb(94, 192, 89);
+    }
+    #g {
+        background-color: rgb(58, 138, 54);
+    }
+    #h {
+        background-color: rgb(186, 240, 183);
+    }
+    #i {
+        background-color: rgb(138, 160, 137);
+        
+    }
 }
-
-div {
-    background-color: rgb(211,211,211);
+@media only screen and (min-width: 960px) {
+    #a {
+        background-color: rgb(155, 220, 151);
+        }
+    #b {
+        background-color: rgb(118, 167, 116);
+        }
+    #c {
+        background-color: rgb(190, 216, 189);
+        }
+    #d {
+        background-color: rgb(87, 124, 85);
+        }
+    #e {
+        background-color: rgb(58, 92, 57)
+    }
+    #f {
+        background-color: rgb(94, 192, 89);
+    }
+    #g {
+        background-color: rgb(58, 138, 54);
+    }
+    #h {
+        background-color: rgb(186, 240, 183);
+    }
+    #i {
+        background-color: rgb(138, 160, 137);   
+    }
 }
