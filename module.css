@@ -4,6 +4,7 @@
 @media only screen and (max-width: 767px) {
     #a {
         background-color: rgb(250, 128, 114);
+
     }
     #b {
         background-color: rgb(233, 150, 122);
@@ -30,33 +31,33 @@
         background-color: rgb(216, 72, 72);
     }
 }
-@media only screen and (min-width: 700px) and (max-width: 959px){
+@media only screen and (min-width: 700px) and (max-width: 960px){
     #a {
-        background-color: rgb(155, 220, 151);
+        background-color: rgb(37, 124, 196);
         }
     #b {
-        background-color: rgb(118, 167, 116);
+        background-color: rgb(42, 111, 138);
         }
     #c {
-        background-color: rgb(190, 216, 189);
+        background-color: rgb(105, 153, 241);
         }
     #d {
-        background-color: rgb(87, 124, 85);
+        background-color: rgb(33, 64, 121);
         }
     #e {
-        background-color: rgb(58, 92, 57)
+        background-color: rgb(53, 85, 189);
     }
     #f {
-        background-color: rgb(94, 192, 89);
+        background-color: rgb(50, 81, 139);
     }
     #g {
-        background-color: rgb(58, 138, 54);
+        background-color: rgb(9, 49, 158);
     }
     #h {
-        background-color: rgb(186, 240, 183);
+        background-color: rgb(105, 138, 230);
     }
     #i {
-        background-color: rgb(138, 160, 137);
+        background-color: rgb(106, 146, 206);
         
     }
 }

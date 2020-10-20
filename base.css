@@ -1,7 +1,6 @@
 /* for this project-body only styles for anything that is not a class or an id */
 
 * {
-    box-sizing: border-box;
     text-align: center;
 }
 
