@@ -2,7 +2,7 @@
 /*specific dimenions for all the ids and classes*/
 
 /*mobile*/
-@media only screen and (max-width: 767px){
+/* @media only screen and (max-width: 767px){
 
     header {
         height: 75px;
@@ -69,29 +69,17 @@
     }
     
     }
-    
+     */
     @media only screen and (min-width: 960px){
     
     /* @media only screen and (max-width: 960px){ */
     
-        header {
+        /* #a {
             height: 100px;
             width: 960px;
             padding: 25px;
         }
-        
-        footer {
-            clear: both;
-            height: 150px;
-            width: 760px;
-            padding: 25px;
-            border-top: none;
-        }
-        
-        #cd {
-            border: none;
-        }
-        .b {
+        #b {
             height: 600px;
             width: 200px;
             padding: 60px;
@@ -99,43 +87,37 @@
             border-top: none;
         }
         
-        .c {
+        #c {
             height: 200px;
             width: 380px;
             padding: 50px;
             border-bottom: none;
         }
         
-        .d {
+        #d {
             height: 200px;
             width: 380px;
             padding: 50px;
             border-bottom: none;
         }
-        #efgh {
+        #e{
             height: 500px;
             width: 480px;
             border: none;
         }
-        .left {
-            float: left;
-            height: 190px;
-            width: 250px;
-            padding: 105px;
-            border-bottom: none;
-        
-        }
-        .right {
-            float: right;
-            height: 190px;
-            width: 250px;
-            padding: 105px;
+        #f {
+            height: 500px;
+            width: 480px;
+            border: none;
         }
         #g {
-            border-left: none;
+            height: 500px;
+            width: 480px;
+            border: none;
         }
-        #f {
-            border-left: none;
+        #h {
+            height: 500px;
+            width: 480px;
+            border: none;
         }
-    }
-    }
+    } */
